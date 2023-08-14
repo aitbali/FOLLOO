@@ -1,0 +1,7 @@
+{
+  "name": "Folloo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
